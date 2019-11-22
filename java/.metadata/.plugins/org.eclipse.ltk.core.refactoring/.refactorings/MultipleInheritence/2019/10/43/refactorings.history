@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 elements to &apos;MultilevelInheritence/src&apos;&#x0D;&#x0A;- Original project: &apos;MultipleInheritence&apos;&#x0D;&#x0A;- Destination element: &apos;MultilevelInheritence/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     TestG.java&#x0D;&#x0A;     SecondGen.java&#x0D;&#x0A;     FirstGen.java&#x0D;&#x0A;     ThirdGen.java" description="Copy compilation units" destination="=MultilevelInheritence/src" element1="/src&lt;{TestG.java" element2="/src&lt;{SecondGen.java" element3="/src&lt;{FirstGen.java" element4="/src&lt;{ThirdGen.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1571814149240" units="4" version="1.0"/>
+</session>
